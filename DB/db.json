@@ -1,0 +1,72 @@
+[
+    {
+        "id":"1",
+        "name": "Mg5",
+        "umidade":"60%",
+        "tempIdeal":"30"
+    },
+
+    {
+        "id":"2",
+        "name": "Napie",
+        "umidade":"70%",
+        "tempIdeal":"30"
+    },
+
+    {
+        "id":"3",
+        "name": "brachiara",
+        "umidade":"50%",
+        "tempIdeal":"32"
+    },
+
+    {
+        "id":"4",
+        "name": "Milho",
+        "umidade":"65",
+        "tempIdeal":"28"
+    },
+
+    {
+        "id":"5",
+        "name": "Cana",
+        "umidade":"70",
+        "tempIdeal":"30"
+    },
+
+    {
+        "id":"6",
+        "name": "Alho",
+        "umidade":"60",
+        "tempIdeal":"18"
+    },
+
+    {
+        "id":"7",
+        "name": "Cenoura",
+        "umidade":"60",
+        "tempIdeal":"25"
+    },
+
+    {
+        "id":"8",
+        "name": "Mandioca",
+        "umidade":"55",
+        "tempIdeal":"28"
+    },
+
+    {
+        "id":"9",
+        "name": "Pepino",
+        "umidade":"75",
+        "tempIdeal":"18"
+    },
+
+    {
+        "id":"10",
+        "name": "Alface",
+        "umidade":"80",
+        "tempIdeal":"16"
+    }
+    
+]
